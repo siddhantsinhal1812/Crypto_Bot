@@ -1,4 +1,4 @@
-# Crypto Monitor Bot
+# Crypto Bot
 
 A Python-powered Discord bot for tracking cryptocurrency prices, monitoring market trends, and receiving automated alerts.
 
